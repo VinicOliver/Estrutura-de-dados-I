@@ -6,8 +6,8 @@ Classes:
 
 Link: Define um nó (node) na lista encadeada;
 
-StackString: Implementa uma pilha usando TAD tipo lista;
+StackString: Define uma lista simplesmente encadeada implementando uma TAD do tipo pilha;
 
-Palindrome: Verifica se uma sequência de caracteres é palindrômo;
+Palindrome: Implementa uma pilha de caracteres e resolve se a string recebida é palíndromo;
 
 Teste: Interface do programa. Lê a string e retorna a mesma, indicando se é palindrome ou não;
