@@ -5,6 +5,6 @@ Cada classe e método de cada classe está comentado, caso hajam dúvidas sobre 
 
 Classes:
 
-Escavação: responsável por armazenar e tratar do "material coletado", ou seja, da string que será digitada;
+Escavação: Responsável por armazenar e tratar do "material coletado", ou seja, da string que será digitada;
 
-Main: Contém a interface do algoritmo;
+Main: Interface do algoritmo;
